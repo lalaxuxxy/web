@@ -23,6 +23,14 @@
   padding-top: 0em;
   justify-content: center;
 }
+
+.relative2{
+  width: 6em;
+  border: 3px solid #000000;
+  padding: 0 .5em;
+  justify-content: center;
+}
+
 .p{
   padding: 1em;
   padding-top: 0em;
